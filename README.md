@@ -8,12 +8,19 @@ Fivem djbooth.
 Then put it in the [qb] file under the /Resources folder.
 ---
 
-# The Devv.il
+# The Devv.il Web
+
+- [thedevvil.site](https://thedevvil.site)
 
 <p align="center">
-  <img  width="1000" height="250" src="https://i.hizliresim.com/lh5i19a.png">
+  <img  width="200" height="200" src="https://i.hizliresim.com/cau0xef.png">
 </p>
 
+- [thedevvil.com.tr](https:/thedevvil.com.tr) 
+
+<p align="center">
+  <img  width="200" height="200" src="https://i.hizliresim.com/mir3xf2.png">
+</p>
 
 # qb-djbooth
 Play music on configured coords!
@@ -25,6 +32,12 @@ Play music on configured coords!
 
 ## Preview
 ![unknown (12)](https://user-images.githubusercontent.com/57848836/139512432-729dbcff-d6b1-49b7-9bc3-e82c163c8621.png)
+
+# The Devv.il
+
+<p align="center">
+  <img  width="1000" height="250" src="https://i.hizliresim.com/lh5i19a.png">
+</p>
 
 # License
 
